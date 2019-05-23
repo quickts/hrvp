@@ -24,11 +24,10 @@
     "rimraf": "^2.6.3",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.5",
-    "tsconfig-paths": "^3.8.0"
-  },
-  "dependencies": {
+    "tsconfig-paths": "^3.8.0",
     "reflect-metadata": "^0.1.13"
   },
+  "dependencies": {},
   "files": [
     "dist"
   ],
